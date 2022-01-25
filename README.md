@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Gueye19/exo_20220126.md/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Excercice Courtin
+| Affichage sur carte des lieux de conservation des sculptures d'Auguste Rodin uniquement conservées aux Etat-Unis.
 
 #REQUETE
 
